@@ -74,7 +74,8 @@ class LoginPageState extends State<LoginPage> {
             child: _txtUserName,
           ),
           new Container(
-            margin: new EdgeInsets.only(left: 20.0, right: 20.0, bottom: 10.0),
+            margin: new
+              EdgeInsets.only(left: 20.0, right: 20.0, bottom: 10.0),
             decoration: new BoxDecoration(
                 color: new Color.fromARGB(255, 240, 240, 240),
                 border: new Border.all(width: 1.2, color: Colors.black12),
